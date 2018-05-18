@@ -1,14 +1,19 @@
 {
-  "name": "adoc",
-  "version": "0.0.1",
+  "name": "aldoc",
+  "version": "0.0.2",
   "description": "a doc generate",
   "main": "index.js",
   "scripts": {
+    "dev": "node bin/cmd.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "adoc": "./bin/cmd.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanyf/loppo.git"
+  },
+  "author": "leewr",
   "license": "ISC"
 }
