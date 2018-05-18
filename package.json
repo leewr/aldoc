@@ -1,0 +1,14 @@
+{
+  "name": "adoc",
+  "version": "0.0.1",
+  "description": "a doc generate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "adoc": "./bin/cmd.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
