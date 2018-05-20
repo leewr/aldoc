@@ -8,7 +8,7 @@ output: dist
 site: Documents
 
 # site theme
-theme: oceandeep
+theme: aldoctheme
 
 # use customized theme
 customization: false
