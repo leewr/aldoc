@@ -15,5 +15,11 @@
     "url": "https://github.com/ruanyf/loppo.git"
   },
   "author": "leewr",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "js-yaml": "^3.11.0",
+    "lodash": "^4.17.10",
+    "aldoctheme": "^0.0.1"
+  }
 }
