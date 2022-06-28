@@ -1,5 +1,5 @@
 # directory of document source files
-dir: docs
+dir: doc
 
 # output directory of generated documents
 output: dist
